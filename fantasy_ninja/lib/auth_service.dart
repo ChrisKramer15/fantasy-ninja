@@ -34,7 +34,7 @@ class AuthService {
           if (snapshot.hasData) {
             return const DashboardScreen();
           } else {
-            return const HomeScreen();
+            return const LoginScreen();
           }
         });
   }
