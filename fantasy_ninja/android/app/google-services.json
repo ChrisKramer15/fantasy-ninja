@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626138659185",
+    "project_id": "fantasy-ninja",
+    "storage_bucket": "fantasy-ninja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626138659185:android:426f9b3cc81033c3929ed0",
+        "android_client_info": {
+          "package_name": "com.example.fantasy_ninja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626138659185-7sqc7d3i0hrmgm59r7ahjoq816v5hpe3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDGl9VBvL7gMLmJQzVxdxD8Ef29DrM-P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626138659185-7sqc7d3i0hrmgm59r7ahjoq816v5hpe3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
