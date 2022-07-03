@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "626138659185-3moue192kn7pmmfpig12l4sccde48a5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fantasy_ninja",
+            "certificate_hash": "d5a6256414690be63ddef1f0b7d81f2ac18a20e8"
+          }
+        },
+        {
           "client_id": "626138659185-7sqc7d3i0hrmgm59r7ahjoq816v5hpe3.apps.googleusercontent.com",
           "client_type": 3
         }
